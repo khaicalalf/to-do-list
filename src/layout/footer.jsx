@@ -7,7 +7,10 @@ function Footer() {
       <aside>
         <p>
           Copyright © {new Date().getFullYear()} -{" "}
-          <a className="link link-hover">React</a> with 💓
+          <a href="https://github.com/khaicalalf" className="link link-hover">
+            React
+          </a>{" "}
+          with 💓
         </p>
       </aside>
     </footer>
